@@ -45,10 +45,6 @@ I am a full-stack developer and a DevOps enthusiast from Tunisia
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ka​
 
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 
 ---
 
@@ -64,19 +60,21 @@ I am a full-stack developer and a DevOps enthusiast from Tunisia
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div>
-  <h2> Frontend tools</h2>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"        title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"          title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-</div>
-
  
  <div>
   <h2> Backend tools</h2>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"      title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="NestJs"    alt="NestJs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="NodeJs"    alt="NodeJs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"  title="MySQL"  alt="MySQL" width="40"      height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg"  title="PostgreSQL" alt="PostgreSQL" width="40"  height="40"/>&nbsp;
+</div>
+
+
+<div>
+  <h2> Frontend tools</h2>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"        title="React" alt="React" width="40" height="40"/>&nbsp;
+ 
 </div>
 
 <div>
