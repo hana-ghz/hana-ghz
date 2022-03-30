@@ -42,7 +42,7 @@ I am a full-stack developer and a DevOps enthusiast from Tunisia
 
 - :zap: In my free time, I read tech articles and practice some problem solving.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ka​
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hana-ben-ghezail-822a601ba/)
 
 
 ---
