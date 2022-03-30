@@ -35,13 +35,13 @@ Here are some ideas to get you started:
 ### :woman_technologist: About Me :
 
 I am a full-stack developer and a DevOps enthusiast from Tunisia
-- :telescope: I have contributed to frontend and backend for building web applications and I have also built some some personal school projects.
+- :telescope: I have contributed to frontend and backend for building web applications and I have also built some personal projects.
 
 - :seedling: Teaching myself about DevOps and the latest cloud technologies.
 
 - :zap: In my free time, I read tech articles and practice some problem solving.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hana-ben-ghezail-822a601ba/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/hana-ben-ghezail-822a601ba/)
 
 
 ---
