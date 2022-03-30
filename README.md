@@ -17,10 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <img src="https://giphy.com/stickers/dev-developers-yooda-KJmbSTSyIzetubNgJ5" width="100"/>
-</div>
-
-<div id="badges">
+  <div id="badges">
     <a href="https://www.linkedin.com/in/hana-ben-ghezail-822a601ba/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"             alt="LinkedIn Badge"/>
     </a>
@@ -30,6 +27,9 @@ Here are some ideas to get you started:
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
+</div>
+
 
 ---
 
@@ -43,16 +43,6 @@ I am a full-stack developer and a DevOps enthusiast from Tunisia
 - :zap: In my free time, I read tech articles and practice some problem solving.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ka​
-
-
----
-
-### :woman_technologist: About Me :
-I am a full-stack developer and a DevOps enthusiast from Tunisia
-- :telescope: I have contributed to frontend and backend for building web applications and I have also built some some personal school projects.
-- :seedling: Teaching myself about DevOps and the latest cloud technologies.
-- :zap: In my free time, I read tech articles and practice some problem solving.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hana-ben-ghezail-822a601ba/)
 
 
 ---
