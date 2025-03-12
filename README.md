@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 I am a backend developer and a paltform engineer, based in Munich.
 - :telescope: I have worked on vaious serverless projects on AWS.
 
-- :seedling: Teaching myself about DevOps and the latest cloud technologies.
+- :seedling: Teaching myself about Platform engineering and the latest cloud technologies.
 
-- :zap: In my free time, I am either at the gym, reading a book or trying something new with frieds.
+- :zap: In my free time, I am either at the gym, reading a book or trying something new with friends.
 
 - :mailbox:How to reach me: [LinkedIn](https://www.linkedin.com/in/hana-ben-ghezail-822a601ba/)
 
