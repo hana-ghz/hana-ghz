@@ -34,12 +34,12 @@ Here are some ideas to get you started:
 
 ### :woman_technologist: About Me :
 
-I am a full-stack developer and a DevOps enthusiast from Tunisia
-- :telescope: I have contributed to frontend and backend for building web applications and I have also built some personal projects.
+I am a backend developer and a paltform engineer, based in Munich.
+- :telescope: I have worked on vaious serverless projects on AWS.
 
 - :seedling: Teaching myself about DevOps and the latest cloud technologies.
 
-- :zap: In my free time, I read tech articles and practice some problem solving.
+- :zap: In my free time, I am either at the gym, reading a book or trying something new with frieds.
 
 - :mailbox:How to reach me: [LinkedIn](https://www.linkedin.com/in/hana-ben-ghezail-822a601ba/)
 
